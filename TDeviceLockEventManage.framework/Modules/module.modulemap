@@ -1,0 +1,6 @@
+framework module TDeviceLockEventManage {
+  umbrella header "TDeviceLockEventManage.h"
+
+  export *
+  module * { export * }
+}
